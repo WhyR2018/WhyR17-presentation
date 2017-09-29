@@ -1,0 +1,24 @@
+---
+title: "WhyR 2018"
+author: "Michal Burdukiewicz"
+date: ""
+output:
+  ioslides_presentation:
+    css: shiny_paper.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## WhyR 2018
+
+<IMG class="displayed" src="logo_kolko.png" style="height:350px;">
+
+2-4.07.2018, Wrocław
+
+## Wrocławski Zlot Użytkowników R (WZUR) 2008
+
+<IMG class="displayed" src="wzur2008_maly.JPG" style="height:550px;">
+
+## PPP{.SlideClass #SlideID1}
